@@ -1,2 +1,3 @@
 # nodeToMysql
 使用sequelize对mysql的操作
+实现登录注册修改密码等功能接口的实现
